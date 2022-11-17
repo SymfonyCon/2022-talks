@@ -169,7 +169,7 @@ By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)
   <dd>We all love Disney movies, right? They are entertaining, trigger emotional response but also contain a lot of important lessons. And these lessons can also be applied to your career as a developer. During this talk I'll have a look at 7 situations from some of my favorite Disney movies to analyze and see what lesson we can learn from that.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/skoop/7-lessons-you-can-learn-from-disney-movies-symfonycon-2022)  
 ~~Video~~
 
 By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)  
