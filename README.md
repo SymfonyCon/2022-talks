@@ -230,7 +230,7 @@ This can turn into an expensive moving target, one that’ll leave your team rei
 ~~Slides~~  
 ~~Video~~
 
-By [Ori Pekelman](https://connect.symfony.com/profile/)  
+By [Ori Pekelman](https://connect.symfony.com/profile/oripekelman)  
 ![github](icon/github.png) [@OriPekelman](https://github.com/OriPekelman)  
 ![twitter](icon/twitter.png) [@OriPekelman](https://twitter.com/OriPekelman)
 
@@ -250,7 +250,7 @@ Forms, messaging, modals, asynchronous... I will show you very concrete applicat
 ~~Slides~~  
 ~~Video~~
 
-By [Florent Destremau](https://connect.symfony.com/profile/)  
+By [Florent Destremau](https://connect.symfony.com/profile/florentdestremau)  
 ![github](icon/github.png) [@florentdestremau](https://github.com/florentdestremau)  
 
 ---
@@ -285,7 +285,7 @@ By [Natalie Harper](https://connect.symfony.com/profile/nananat)
 By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)  
 ![github](icon/github.png) [@sebastianbergmann](https://github.com/sebastianbergmann)  
 ![twitter](icon/twitter.png) [@s_bergmann](https://twitter.com/s_bergmann)  
-![mastodon](icon/mastodon.png) [@s_bergmann@chaos.social](https://chaos.social/@s_bergmann)
+![mastodon](icon/mastodon.png) [@sebastian@thephpcc.social](https://thephpcc.social/@sebastian)
 
 ---
 
