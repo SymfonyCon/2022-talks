@@ -46,7 +46,7 @@ Here comes GNAP (Grant Negotiation and Authorization Protocol): an in-progress e
 In this talk, we'll have a deep look into the GNAP protocol, passing by a review of the known OAuth2 flaws that it aims to fix, how it plays with authentication protocols such as Open ID Connect or WebAuthN, what is its current state and more.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slides.com/chalasr/gnap-the-future-of-oauth-2fefdf)  
 ~~Video~~
 
 By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
