@@ -83,7 +83,7 @@ By [Łukasz Chruściel](https://connect.symfony.com/profile/lchrusciel)
 We should always consider the nature of processing while implementing our application’s use cases. So let's have a look at the main criterias, strategies and trade offs that will help us to navigate through all the options we have and see how we can bring your own data warehouse to life in your Symfony application leveraging tools like Doctrine, Messenger and more.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/el_stoffel/transactional-vs-analytical-processing)  
 ~~Video~~
 
 By [Christopher Hertel](https://connect.symfony.com/profile/chertel)  
