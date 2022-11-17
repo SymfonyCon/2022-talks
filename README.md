@@ -175,6 +175,7 @@ By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)
 By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)  
 ![github](icon/github.png) [@skoop](https://github.com/skoop)  
 ![twitter](icon/twitter.png) [@skoop](https://twitter.com/skoop)
+![mastodon](icon/mastodon.png) [@skoop@phpc.social](https://phpc.social/@skoop)
 
 ---
 
