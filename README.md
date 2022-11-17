@@ -279,7 +279,7 @@ By [Natalie Harper](https://connect.symfony.com/profile/nananat)
   <dd>All modern software is built using third-party software components, which may come with their own dependencies. Do you know everything about the components that make up the foundation of your software? What is the PHP software stack’s supply chain? In this presentation, Sebastian Bergmann paints a picture as complete as possible, covering topics from software supply chain security concerns to the funding of Open Source software development.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://thephp.cc/presentations/2022-symfonycon-disneyland-paris-the-php-stacks-supply-chain.pdf)  
 ~~Video~~
 
 By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)  
