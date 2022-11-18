@@ -248,7 +248,7 @@ At Windoo we've been using the package symfony/ux-turbo suite since early 2021 t
 Forms, messaging, modals, asynchronous... I will show you very concrete applications of this library in your projects!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/florentdestremau/symfony-and-hotwire-an-efficient-combo-to-quickly-develop-complex-applications)
 ~~Video~~
 
 By [Florent Destremau](https://connect.symfony.com/profile/florentdestremau)  
