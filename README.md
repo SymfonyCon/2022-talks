@@ -458,7 +458,7 @@ By [David Buchmann](https://connect.symfony.com/profile/dbu)
 Let's discuss how the HtmlSanitizer component, Symfony UX and Mercure can be used together to build amazing editing experiences for your users.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/tgalopin/content-editing-in-symfony)  
 ~~Video~~
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
