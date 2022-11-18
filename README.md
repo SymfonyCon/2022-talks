@@ -2,7 +2,7 @@
 
 - All talks are in **english**.
 - You can send feedback and love to speakers on their twitter account
-- See [all tweets](https://twitter.com/search?q=(%23symfonycon%20OR%20%23symfonycon2022)%20until%3A2022-11-18%20since%3A2022-11-17%20-%23LuckyWebby&src=typed_query&f=top) during the event
+- See [all tweets](https://twitter.com/search?q=(%23symfonycon%20OR%20%23symfonycon2022)%20until%3A2022-11-19%20since%3A2022-11-17%20-%23LuckyWebby&src=typed_query&f=top) during the event
 
 ## Keynote
 
