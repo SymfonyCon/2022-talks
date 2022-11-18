@@ -253,6 +253,7 @@ Forms, messaging, modals, asynchronous... I will show you very concrete applicat
 
 By [Florent Destremau](https://connect.symfony.com/profile/florentdestremau)  
 ![github](icon/github.png) [@florentdestremau](https://github.com/florentdestremau)  
+![twitter](icon/twitter.png) [@FloDestremau](https://twitter.com/flodestremau)
 
 ---
 
