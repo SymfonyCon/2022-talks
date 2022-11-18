@@ -512,7 +512,7 @@ By [Diego Aguiar](https://connect.symfony.com/profile/mollokhan)
 In this talk, Rowdy will go over common mistakes and show solutions to improve your website for persons with disabilities. He will also discuss practical examples to make websites more enjoyable and usable for every user, based on their current situation.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://rowdy.codes/talks/assets/pdf/20221118-symfonycon-disneyland-paris.pdf)  
 ~~Video~~
 
 By [Rowdy Rabouw](https://connect.symfony.com/profile/rowdy)  
