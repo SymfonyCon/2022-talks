@@ -649,8 +649,9 @@ So how can one validate this data if we don't even know its type ?
 Well come on in, I'll show you how ! You can actually validate dynamic data by using the most of the features available in Symfony.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://speakerdeck.com/marionleherisson/how-to-dynamically-validate-data-with-symfony)  
+~~Video~~  
+[Code](https://github.com/MarionLeHerisson/validation)
 
 By [Marion Hurteau](https://connect.symfony.com/profile/marionleherisson)  
 ![github](icon/github.png) [@MarionLeHerisson](https://github.com/MarionLeHerisson)  
