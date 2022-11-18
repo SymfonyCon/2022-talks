@@ -439,7 +439,7 @@ By [Isabel Garrido Cardenas](https://connect.symfony.com/profile/igcardenas1990)
   <dd>Quick response times are crucial. Time consuming tasks triggered in web requests should be executed asynchronously, if at all possible. In this talk I will give a short overview of what message queues are and then show a case study how we split up an application into smaller services and how we use message queues to coordinate the services.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://davidbu.ch/slides/2022-11-18-symfonycon-messenger.html)  
 ~~Video~~
 
 By [David Buchmann](https://connect.symfony.com/profile/dbu)  
