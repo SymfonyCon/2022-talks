@@ -557,8 +557,9 @@ You don't have to know a thing about the BC breaks and how-to-chagen it.
 I will show you, how you can become master of change with simple command line.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://slides.com/tomasvotruba/minute-symfonycon-2022)  
+~~Video~~  
+[Code](https://github.com/TomasVotruba/symfony-upgrade-demo-2022)
 
 By [Tomas Votruba](https://connect.symfony.com/profile/tomas_votruba)  
 ![github](icon/github.png) [@TomasVotruba](https://github.com/TomasVotruba)  
