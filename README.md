@@ -423,8 +423,9 @@ And [Leah Goldfarb](https://connect.symfony.com/profile/leah)
   <dd>Mutation Testing is a powerful technique to evaluate the quality of our tests but it's not widespread. In this talk, we will introduce Mutation Testing, compare it with code coverage and see how we can make it work inside a Symfony project using Infection.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://www.canva.com/design/DAFQDOnAsCQ/crRQ3QLLwaurnjKGCp06TA/view)  
+~~Video~~  
+[Demo](https://github.com/isamadrid90/mutation-testing-symfony-demo/pulls?q=is%3Apr+sort%3Aupdated-desc+)
 
 By [Isabel Garrido Cardenas](https://connect.symfony.com/profile/igcardenas1990)  
 ![github](icon/github.png) [@isamadrid90](https://github.com/isamadrid90)  
