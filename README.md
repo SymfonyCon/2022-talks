@@ -359,7 +359,7 @@ So you’re not alone, you do belong here and I’m going to give you all the ti
 ~~Video~~
 
 By [Marine Gandy](https://connect.symfony.com/profile/mupsi)  
-![github](icon/github.png) [@mupsigraphy](https://github.com/mupsigraphy)  
+![github](icon/github.png) [@Mupsi](https://github.com/Mupsi)  
 ![twitter](icon/twitter.png) [@mupsigraphy](https://twitter.com/mupsigraphy)
 
 ---
