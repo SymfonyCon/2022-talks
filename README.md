@@ -402,10 +402,10 @@ And [Leah Goldfarb](https://connect.symfony.com/profile/leah)
 
 <dl>
   <dt>Description</dt>
-  <dd></dd>
+  <dd>The importance of full carbon emissions accounting, including virtual assets, has become the norm and is set to be an environmental compliance issue going forward. These changes are superimposed on a changing regulatory landscape (e.g. the EU’s Green Deal). Although universal common standards are sometimes lacking, our technical understanding is improving. In the interest of Building Anything Together, we will unpack Platform.sh’s approach to carbon calculations, including how we seek to allocate carbon emissions across our product profile and how our customers can contribute to minimizing their carbon footprint in the cloud.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://archive.org/download/sfcon2022batcon.-calculating.what.we.can.t.see.-.-carbon.-emissions.in.the.-cloud/2022.11.18.BATCon.Calculating.what.we.can.t.see.-.Carbon.Emissions.in.the.Cloud.pdf)  
 ~~Video~~
 
 By [Mary Thomas](https://connect.symfony.com/profile/marythomas)  
