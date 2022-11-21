@@ -638,6 +638,7 @@ By [Alexander M. Turek](https://connect.symfony.com/profile/derrabus)
 By [Mathieu Santostefano](https://connect.symfony.com/profile/welcomattic)  
 ![github](icon/github.png) [@welcoMattic](https://github.com/welcoMattic)  
 ![twitter](icon/twitter.png) [@welcoMattic](https://twitter.com/welcoMattic)
+![mastodon](icon/mastodon.png) [@welcomattic@phpc.social](https://phpc.social/@welcomattic)
 
 ---
 
