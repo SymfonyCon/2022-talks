@@ -186,7 +186,7 @@ By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)
   <dd>Why should someone care about SQL, when a developer can abstract it with Symfony and Doctrine into PHP code? With Doctrine the database is out of sight, the database is out of mind, but this is where problems can start. What impacts are there for a Symfony project and how can they be managed? This talk handles Doctrine's behaviour and how it can influence a database and queries, why SQL is still relevant despite having an ORM and how developers can influence SQL performance.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://senseexception.github.io/schroedingers-sql/symfonycon22/)  
 ~~Video~~
 
 By [Claudio Zizza](https://connect.symfony.com/profile/senseexception)  
