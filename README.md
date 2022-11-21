@@ -336,7 +336,7 @@ By [Erik Evrard](https://connect.symfony.com/profile/erikevrard)
 We’re gonna talk methodology, tools, timeline, resources. No magic recipes, only tips and tricks that helped me figure out the path to the final exam. And then I’ll explain how all of this can be applied to *any* self-training need.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://archive.org/download/sfcon2022_a-self-training-journey-to-the-symfony-certification/A.self.training.journey.pdf)  
 ~~Video~~
 
 By [Camille Jouan](https://connect.symfony.com/profile/ca-jou)  
