@@ -386,7 +386,7 @@ By [Tomasz Kowalczyk](https://connect.symfony.com/profile/thunderer)
   <dd>This session will provide an overview of climate change, explore how to quantitatively reduce your carbon footprint in the cloud, and explore what actionable information is needed by the client. The ICT sector contributes ~4% of global greenhouse gas emissions – this is more than global aviation.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://archive.org/download/sfcon2022_climate-change-and-the-cloud_fred-leah/2022.11.18.BATCon.Climate.change.and.the.cloud.Fred.Leah.pdf)  
 ~~Video~~
 
 By [Frederic Plais](https://connect.symfony.com/profile/fredplatformsh)  
