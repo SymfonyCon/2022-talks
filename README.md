@@ -535,7 +535,7 @@ You will learn how to use your existing knowledge to create standalone services 
 See what is possible, what you can do with the technology, where platform.sh fits the picture, and learn why it is worth trying the whole thing out.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://archive.org/download/sfcon-2022-ndzoesch_symfonycon_Shopware_apps/ndzoesch_symfonycon_Shopware_apps_2022.pdf)  
 ~~Video~~
 
 By [Niklas Dzösch](https://connect.symfony.com/profile/ndzoesch)  
