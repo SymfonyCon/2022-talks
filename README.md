@@ -228,7 +228,7 @@ By [Ondřej Mirtes](https://connect.symfony.com/profile/mirtes)
 This can turn into an expensive moving target, one that’ll leave your team reinventing the wheel forever – spending less time on writing features as you focus on everything else around applications. Platform.sh provides a unified, secure platform powered by Git and an infrastructure abstraction that provides operational maturity out-of-the-box. You’ll spend less time orchestrating all of your apps, and more time experimenting with new technologies, optimizing your code, and scaling all in one place.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://archive.org/download/symfony-con-bat-con-presentation-ori-pekelman/SymfonyCon_BatCon%20Presentation%20Ori%20Pekelman.pdf)  
 ~~Video~~
 
 By [Ori Pekelman](https://connect.symfony.com/profile/oripekelman)  
