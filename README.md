@@ -671,7 +671,7 @@ By [Marion Hurteau](https://connect.symfony.com/profile/marionleherisson)
 And, while many of these are small, the landscape of *how* Symfony apps are developed continues to evolve. In this talk, we'll look at some of the most important changes, from new dependency injection attributes, framework-extra bundle features in Symfony, Symfony UX, testing, and more! Basically... a quick catch-up on 12 months, *thousands* of commits, and hundreds of releases across numerous repositories. Let's go!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/weaverryan/the-evolution-of-symfony-now-and-to-the-future)
 ~~Video~~
 
 By [Ryan Weaver](https://connect.symfony.com/profile/weaverryan)  
