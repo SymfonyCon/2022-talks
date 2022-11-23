@@ -595,7 +595,7 @@ By [Clément Bertillon](https://connect.symfony.com/profile/skigun)
   <dd>Headless is a term emerged recently in the web industry. It was coined to describe a backend system that provides core features but doesn't provide delivery, just a REST API interface. Countless products like CMSes and eCommerce systems state being headless or at least having a headless mode. Is it something completely new or just good old "divide et impera"? In this presentation, we will explore the headless buzz, how it is related to decoupled architecture and API driven development, it's pros and cons. Also, what about the head?</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/secret/AXYH9mdmsIkQn3)
 ~~Video~~
 
 By [Ivo Lukač](https://connect.symfony.com/profile/gof)  
