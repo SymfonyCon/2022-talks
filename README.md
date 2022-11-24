@@ -355,7 +355,7 @@ But questioning your competence again and again no matter how successful you are
 So you’re not alone, you do belong here and I’m going to give you all the tips you need to prove it to yourself too!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://github.com/Mupsi/conferences/raw/947c55ff0ce64cb6973cd0c7d4e7f760b0fa7f74/%5BSymfonyCon%202022%5D%20Fighting%20Impostor%20Syndrome:%20A%20Practical%20Handbook.pdf)  
 ~~Video~~
 
 By [Marine Gandy](https://connect.symfony.com/profile/mupsi)  
