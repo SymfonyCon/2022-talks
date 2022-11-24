@@ -119,7 +119,7 @@ But do you know how they work internally? In this talk, I'll tell you about the 
 While lazy objects used to require complex code generation, these new traits make it way easier to leverage them, opening up possible innovations; lazy arguments, lazy properties, or by-design lazy classes to name a few ones. What will you come up with? Let me know after you've seen this talk!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicolasgrekas/unleashing-the-power-of-lazy-objects-in-php)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
