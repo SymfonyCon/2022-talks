@@ -66,7 +66,7 @@ What were our heuristics and what did we achieve?
 How to design more complicated flows in API?</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/ukaszChruciel1/symfonycon-dilemmas-and-decisionspdf)  
 ~~Video~~
 
 By [Łukasz Chruściel](https://connect.symfony.com/profile/lchrusciel)  
