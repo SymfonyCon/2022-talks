@@ -135,7 +135,7 @@ By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)
   <dd>When it comes to application observability, different categories of tools are at our disposal: static code analyzers, profilers, APMs, to name a few. Like any good tool, they usually serve a specific purpose. In this presentation, we will explore the differences between these tools, to whom they're dedicated, and see how complementary they are.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://archive.org/download/sfcon2022-observability-tools/Observability.tools.pdf)  
 ~~Video~~
 
 By [Jérôme Vieilledent](https://connect.symfony.com/profile/lolautruche)  
