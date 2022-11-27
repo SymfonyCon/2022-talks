@@ -265,7 +265,7 @@ By [Florent Destremau](https://connect.symfony.com/profile/florentdestremau)
 In today’s overpopulated tech space, there’s an app or site for everything. But, like you, I could tell you my most used apps on just one hand. These are the products that make what I need to do seamless and enjoyable. User centered-design aims to balance the needs of a business, while working within the capacities of your engineering team. This talk will share ways in which you can bring your user's voice to the forefront of product development through user-centered design.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.figma.com/proto/KdNdrVgSqbx7LeFR46cJyI/designing-for-users_batcon)  
 ~~Video~~
 
 By [Natalie Harper](https://connect.symfony.com/profile/nananat)  
