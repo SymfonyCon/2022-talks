@@ -579,7 +579,7 @@ In this talk, we'll walk you through how we approached this, what's the first st
 This talk will give you some tips from our experience.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slides.com/skigun/from-monolith-to-soa-with-zero-downtime)  
 ~~Video~~
 
 By [Clément Bertillon](https://connect.symfony.com/profile/skigun)  
