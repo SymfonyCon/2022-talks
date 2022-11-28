@@ -302,7 +302,7 @@ How does Symfony fit with FrankenPHP? What benefits does it bring to the Symfony
 Symfony Runtime, Symfony HttpFoundation, Symfony Mercure, Symfony Local Web Server... let's see how the Symfony ecosystem can leverage FrankenPHP for the sake of performance and simplicity!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dunglas/frankenphp-a-modern-app-server-for-php-and-symfony-apps)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
