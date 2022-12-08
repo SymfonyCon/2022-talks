@@ -6,7 +6,7 @@
 
 ## Keynote
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/fabpot/symfonycon-2022-keynote-webhooks)  
 ~~Video~~
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
