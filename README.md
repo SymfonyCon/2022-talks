@@ -495,7 +495,7 @@ By [Jessica Orozco](https://connect.symfony.com/profile/jessoro)
 - Acceptance tests and more!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/mollokhan/advanced-tdd)  
 ~~Video~~
 
 By [Diego Aguiar](https://connect.symfony.com/profile/mollokhan)  
