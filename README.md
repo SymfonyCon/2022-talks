@@ -615,7 +615,7 @@ Rewriting the whole application is something your developers would simply love t
 Let's have a look at simple techniques that allow us to transform our legacy application step by step into a modern Symfony application.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slidr.io/derrabus/modernizing-with-symfony-symfonycon-2022)  
 ~~Video~~
 
 By [Alexander M. Turek](https://connect.symfony.com/profile/derrabus)  
